@@ -13,7 +13,7 @@
     "babel-build": "./node_modules/.bin/babel -d ./babel_build ./server -s"
   },
   "dependencies": {
-    "appknit-backend-bundle": "^1.0.64",
+    "appknit-backend-bundle": "^1.0.72",
     "babel-polyfill": "^6.26.0",
     "babel-preset-es2015": "^6.24.1",
     "babel-register": "^6.26.0",
